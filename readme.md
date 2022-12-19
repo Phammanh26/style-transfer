@@ -21,18 +21,15 @@ Setup môi trường và chạy server
 
 
 ### Prerequisites
-
-*python
-  ```python 3.8.5
-  ```
-
+    *python
+    ```
+    python 3.8.5
+    ```
 ### Installation
-
-
 
 1. Clone the repo
    ```
-   git clone
+   git clone https://github.com/Phammanh26/style-transfer.git
    ```
 3. tạo môi trường `conda` hoặc `virtualenv`, ví dụ tên môi trường: `venv`
    *conda
@@ -58,10 +55,12 @@ Setup môi trường và chạy server
     pip install -r requirements/dev.txt
     ```
 5. chạy server:
+
     *step1:
     ```
     cd src
     ```
+    
     *step2:
     ```
     sh start_script.sh
