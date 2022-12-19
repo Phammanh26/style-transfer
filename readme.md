@@ -60,7 +60,7 @@ Setup môi trường và chạy server
     ```
     cd src
     ```
-    
+
     *step2:
     ```
     sh start_script.sh
@@ -77,13 +77,11 @@ Sau quá trình cài thư viên và chạy server hoàn tất, bạn có thể v
 
 Manh Pham - pvm26042000@gmail.com
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Project Link: [https://github.com/Phammanh26/style-transfer.git](https://github.com/Phammanh26/style-transfer.git)
 
 
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
 Một số kiến thức liên quan để có thể thực hiện 
-* [](https://choosealicense.com)
-* [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
-* [Malven's Flexbox Cheatsheet](https://flexbox.malven.co/)
+* [Image Style Transfer Using Convolutional Neural Networks](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Gatys_Image_Style_Transfer_CVPR_2016_paper.pdf?fbclid=IwAR1W6LEGRg7AhH-EpKJ8SHGqIZ06N6TtaQUALph7g509V84zTB7Rx46l5eY)
