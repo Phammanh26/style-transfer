@@ -5,8 +5,8 @@
 Style Transfer là một bài toán biến đổi hình hành theo các style mong muốn. Trong bài toán này, mình sử dụng model VGG19 để lấy thông tin features tại từng convolution layer.
 
 ###  Style Tranfer Technical
-
-+ Lấy features: Sử dụng VGG19 để lấy thông tin features tại từng convolution layer.
++ Sử dụng pretain model VGG19.
++ Sử dụng VGG19 để lấy thông tin features tại các convolution layer.
 + Xây dựng hàm loss:  wieght_1 x content loss (bức ảnh gốc so với ảnh mục tiêu) + wieght_2 x style_loss (bức ảnh style so với ảnh mục tiêu)
 + Update gradient ảnh target
 
